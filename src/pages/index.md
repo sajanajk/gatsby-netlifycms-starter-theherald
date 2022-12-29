@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Alex Murphy
+title: The Herald
 image: /img/home-jumbotron.jpg
-heading: Alex Murphy
-subheading: Developer with a flair for design
+heading: The Herald
+subheading: World News
 ---
